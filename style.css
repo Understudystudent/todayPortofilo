@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-form{
-    background-color: aqua;
+body {
+    text-align: center;
+    background-color: rgb( blue);
 }
